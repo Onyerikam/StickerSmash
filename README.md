@@ -2,8 +2,9 @@
 An app made for photo editing
 
 ## Initial
-1. ```$ npm install```
-2. ```$ npm start``` --To run Metro Bundler
+1. ```$ git clone https://github.com/Onyerikam/StickerSmash.git``` or ```$ git clone git@github.com:Onyerikam/StickerSmash.git```
+2. ```$ npm install```
+3. ```$ npm start``` --To run Metro Bundler
 
 ## Deploy/Build apk
 1. ```$ npm install -g eas-cli```

@@ -16,3 +16,4 @@ An app made for photo editing
 7. For All: ```$ eas build --platform all```
 8. ```$ eas build:list```
 9. > To learn how to install the app directly to your Android device/iOS Simulator, navigate to your build details page from your build dashboard and click the "Install" button.
+10. For More info: ```$ start chrome https://docs.expo.dev/build/setup/```

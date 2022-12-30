@@ -14,4 +14,4 @@ An app made for photo editing
 6. For IOS: ```$ eas build --platform ios```
 7. For All: ```$ eas build --platform all```
 8. ```$ eas build:list```
-9. >> To learn how to install the app directly to your Android device/iOS Simulator, navigate to your build details page from your build dashboard and click the "Install" button.
+9. > To learn how to install the app directly to your Android device/iOS Simulator, navigate to your build details page from your build dashboard and click the "Install" button.
